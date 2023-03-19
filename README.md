@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ridaffa/">
   <img src="https://github-readme-stats.vercel.app/api?username=ridaffa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=66ff96&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?hide=html,css&username=ridaffa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=66ff96&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ridaffa"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?hide=html,css,jupyter%20notebook&username=ridaffa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=66ff96&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ridaffa"/>
 
 </a>
 </div>
